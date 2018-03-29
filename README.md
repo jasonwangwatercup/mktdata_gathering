@@ -110,9 +110,9 @@ Repeatedly it is advised to get your hands dirty by elaborating over every detai
 
 Please pay attention to the copyrights and disclaims from your data source:
 
-  .Generally speaking, the public and free data from an exchange belong to it and nobody else has any right to make a profit from it, in a certain way.
+    .Generally speaking, the public and free data from an exchange belong to it and nobody else has any right to make a profit from it, in a certain way.
   
-  .Any resource from the Internet is NOT guaranteed for its accuracy and completeness.
+    .Any resource from the Internet is NOT guaranteed for its accuracy and completeness.
   
 This program itself is licensed under MIT license.
 
